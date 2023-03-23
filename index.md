@@ -1,30 +1,35 @@
 ---
 layout: cv
-title: Le Xuan CV
+title: Le Xuan's resume
 ---
-# Le Xuan
-Software Developer
-
-<div id="webaddress">
-<a href="soong.lexuan6@gmail.com">soong.lexuan6@gmail.com</a>
-| <a href="https://linkedin.com/in/le-xuan-soong-81687818b ">My Linkedin</a>
-| <a href="https://github.com/hihithisisme/ ">My GitHub</a>
-</div>
+# Soong Le Xuan 
+__Software Engineer__ \| [soong.lexuan6@gmail.com](soong.lexuan6@gmail.com) \| [LinkedIn](https://linkedin.com/in/le-xuan-soong-81687818b) \| [GitHub](https://github.com/hihithisisme/)
 
 
-## Currently
+## Experience
 
-Software Engineer II at Indeed
+### Software Engineer 2 @ Indeed
+`2022 Sep - 2023 Mar`
+__International Monetization Team__
 
-### Specialized in
+- Led a successful A/B experiment that generated an estimated USD 28 million in additional revenue.
+- Worked closely with the product manager to identify potential opportunities, estimate engineering efforts, and ensure alignment with business objectives.
+- Helped onboard and mentor three new software engineers as the pioneer software engineer on a newly-formed team.
+- Collaborated closely with cross-functional teams to contribute to their codebase and ensure successful delivery of key initiatives.
 
-Payments and Monetization systems
+`2021 Sep - 2022 Sep`
+__International Payments Team__
 
+- Led an engineering initiative to restructure the internal event flow, enabling future integrations of asynchronous payment methods and improving overall system scalability.
+- Spearheaded the integration of an European Direct Banking payment method, collaborating closely with cross-functional teams to resolve inter-dependencies and ensure successful delivery.
+- Developed new features and investigated bugs in a distributed Service-Oriented Architecture using Java and Kotlin.
+- Advocated for and took ownership of an engineering initiative to enable the replay of Dead-Letter Queue messages, and documented the process to reduce turnaround time for reconciliation after production incidents.
 
-<!-- ### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples. -->
-
+### Part-Time Software Engineer @ Xendit
+`2020 Aug - Dec`
+__E-Wallets Team__
+- Worked with the team to build and maintain backend services to support the fastest growing payment method in Indonesia.
+- Contributed to the team's efforts to continuously improve system performance and reliability, ensuring seamless payment experiences for end-users. This was done by improving error logging, and re-architecturing internal services. 
 
 ## Education
 
@@ -49,34 +54,8 @@ __Dunman High School__
 - GCE A-Level (Integrated Programme)
 
 
-## Experience
-
-### Software Engineer II @ Indeed
-`2022 - Present`
-__International Monetization Team__
-
-- Collaborated with the product manager to identify potential experiments by estimating engineering efforts.
-- Worked with the product manager as the pioneer software engineer to shape the team's processes, and helped onboarded 3 other Software Engineers. 
-- Implemented  an A/B experiment which increased revenue by >10%.
-- Coordinated closely with other teams to contribute to their codebase. 
-
-`2021 - 2022`
-__Payments Team__
-
-- Led an engineering-critical initiative to restructure an internal event flow to unblock future integrations of asynchronous payment methods.
-- Led the initiative to enable an European Direct Banking payment method, collaborating with other teams to resolve inter-dependencies.
-- Worked extensively with a distributed Service-Oriented Architecture in Java and Kotlin to develop new features and investigate bugs.
-- Advocated for and took ownership of an engineering initiative to enable replaying Dead-Letter Queue messages and subsequently formally document the steps in order to reduce turnaround time for reconciliation after production incidents. 
-
-`2020`
-### Part-Time Software Engineer @ Xendit
-__E-Wallets Team__
-- Worked with the team to build and maintain backend services to support the one of the fastest growing payment method in Indonesia.
-- Exposed to industrial software development practices and tools such as the Agile framework, error logging, feature flags, CICD pipelines, and metrics monitoring.
-- Written production code for: fıxing bugs, improved error logging, introducing new user stories, re-architecture of internal services, integration of external APIs.
-
 <!-- ### Footer
 
-Last updated: Feb 2023 -->
+Last updated: 23 Mar 2023 -->
 
 

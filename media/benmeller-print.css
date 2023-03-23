@@ -32,7 +32,8 @@ body {
 	line-height: 1;
 }
 ol, ul {
-	list-style: none;
+	list-style: circle;
+	margin-left: 1em;
 }
 blockquote, q {
 	quotes: none;
@@ -92,8 +93,8 @@ p code {
 ul {
 	position: relative;
 	width: 82%;
-	margin-bottom: 1.5em;
-	margin-top: -0.75em;
+	margin-bottom: 1em;
+	margin-top: -1em;
 }
 
 /*uncomment to get dashes in the list*/
@@ -105,9 +106,9 @@ ul {
 
 li {
 	/*second line indent*/
-	padding-left: 1.25em;
-	text-indent: -1.25em;
-	margin-top: 0.25em;
+	/* padding-left: 1.25em;
+	text-indent: -1.25em; */
+	margin-top: 0.3em;
 }
 
 li ul {
@@ -122,16 +123,16 @@ h1,h2,h3,h4 {
 	font-family: Avenir,Cousine,Verdana,sans-serif;
 	width: 82%;
 
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
 }
 
 h1 {
 	text-align: left;
-	font-size: 3em;
+	font-size: 2.5em;
 	line-height: 1.1em;
-    letter-spacing: 3px;
+    /* letter-spacing: 3px; */
 	position: relative;
-    font-weight: 700;
+    font-weight: 600;
 }
 
 h1+p {
@@ -142,10 +143,10 @@ h1+p {
 
 h2 {
 	font-size: 1.4em;
-	margin-top: 2em;
+	margin-top: 1em;
 	position: relative;
     font-weight: 500;
-    margin-bottom: 1.4em;
+    margin-bottom: 1.2em;
 }
 
 /* Add black bar under H2 */
@@ -161,7 +162,7 @@ h2::before {
 
 h3 {
 	font-size: 1em;
-	line-height: 2em;
+	/* line-height: 2em; */
 	position: relative;
     font-weight: 500;
 }
