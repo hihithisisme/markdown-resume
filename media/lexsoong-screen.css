@@ -47,6 +47,9 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+body, body * {
+    max-height: 1000000px;
+}
 
 /* end of reset */
 
@@ -64,7 +67,8 @@ body {
 
 p {
 	position: relative;
-	margin-bottom: 0.5em;
+	text-align: justify;
+	/* margin-bottom: 0.5em; */
 	margin-right: 0;
 	/* width: 100%; */
     font-weight: 300;
@@ -137,6 +141,7 @@ h1 {
 
 h1+p {
 	/*subtitle*/
+	text-align: left;
 	font-style: italic;
 	font-size: 110%;
 }
@@ -178,7 +183,7 @@ h3+p {
 
 a {
 	color: inherit;
-	text-decoration:none
+	text-decoration: underline;
 }
 
 a:hover {
@@ -245,11 +250,22 @@ and (min-width : 1824px) {
 @media screen and (max-width: 1024px) {
 	body {
 		margin: 1em 5%;
+		font-size: 32px;
 	}
+
+	p code {
+		position: relative;
+		text-align: left;
+	}
+
 }
 
 /* Mobile */
 @media screen and (max-width: 480px) {
+	body {
+		font-size: 32px;
+	}
+
 	h1 {
 		font-size: 2em;
 	}
@@ -259,6 +275,8 @@ and (min-width : 1824px) {
 	}
 
 	p code {
+		position: relative;
+		text-align: left;
 		right: -40%;
 	}
 

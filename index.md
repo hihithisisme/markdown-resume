@@ -52,6 +52,7 @@ __Part-Time Software Engineer__
 ## Education
 
 `2018 - 2021`
+
 __Singapore University of Technology and Design (SUTD)__
 
 - Cumulative GPA: 4.75 \| Honour List
