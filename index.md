@@ -7,18 +7,18 @@ __Software Engineer__ \| [soong.lexuan6@gmail.com](soong.lexuan6@gmail.com) \| [
 
 ------
 
-I have a proven track record in building and maintaining distributed systems for payments and monetization domains. My experience collaborating with people across job functions has taught me how to communicate and operate effectively within and across teams.
+As an accomplished professional with a proven track record in developing and managing distributed systems in the payments and monetization domains, I am well-versed in collaborating with cross-functional teams to deliver outstanding results. My ability to quickly pick up new technologies and gather broad context has enabled me to excel in fast-paced work environments.
 
 
 ## Experience
 
 `2022 Sep - 2023 Mar`
 ### Indeed International Monetization Team
-__Software Engineer II__
+__Mid-level Software Engineer (SWE 2)__
 
-- Led a successful A/B experiment that generated an estimated USD 28 million in additional revenue.
+- Led a successful A/B experiment that directly generated an estimated USD 28 million in additional revenue.
+- Pioneered a new team by creating effective team processes and onboarded three software engineers, contributing to the team's growth and development.
 - Worked closely with the product manager to identify potential opportunities, estimate engineering efforts, and ensure alignment with business objectives.
-- Helped onboard and mentor three new software engineers as the pioneer software engineer on a newly-formed team.
 - Collaborated closely with cross-functional teams to contribute to their codebases and ensure successful delivery of key initiatives.
 <div class="chips">
 <span class="chip">React</span><span class="chip">Kotlin</span><span class="chip">GraphQL Federation</span><span class="chip">Micro-Frontend</span>
@@ -26,12 +26,12 @@ __Software Engineer II__
 
 `2021 Sep - 2022 Sep`
 ### Indeed International Payments Team
-__Software Engineer II__
+__Entry-level Software Engineer (SWD 2)__
 
-- Led an engineering initiative to restructure the internal event flow, enabling future integrations of asynchronous payment methods and improving overall system scalability.
+- Led an engineering initiative to restructure the internal asynchronous event flow, enabling future integrations of asynchronous payment methods and improving overall system scalability.
 - Spearheaded the integration of an European Direct Banking payment method, collaborating closely with cross-functional teams to resolve inter-dependencies and ensure successful delivery.
-- Developed new features and investigated bugs in a distributed Service-Oriented Architecture.
-- Advocated for and took ownership of an engineering initiative to enable the replay of Dead-Letter Queue messages, and documented the process to reduce turnaround time for reconciliation after production incidents.
+- Advocated for and owned an engineering initiative to enable replayability of Dead-Letter Queue messages, and documented the process to reduce turnaround time for production incidents.
+- Drove the resolution of two production incidents, and owned the remediation and retrospective in the aftermath
 
 <div class="chips">
 <span class="chip">Java</span><span class="chip">React</span><span class="chip">Service-Oriented Architecture</span><span class="chip">Terraform</span><span class="chip">AWS SQS/SNS</span><span class="chip">Redis</span><span class="chip">MySQL</span>
@@ -47,7 +47,7 @@ __Part-Time Software Engineer__
 <span class="chip">RabbitMQ</span><span class="chip">Docker</span><span class="chip">NodeJS</span><span class="chip">Golang</span><span class="chip">PostgreSQL</span>
 </div>
 
-----------
+<!-- ---------- -->
 
 ## Education
 
