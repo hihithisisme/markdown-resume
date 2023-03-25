@@ -21,7 +21,7 @@ __Mid-level Software Engineer (SWE 2)__
 - Worked closely with the product manager to identify potential opportunities, estimate engineering efforts, and ensure alignment with business objectives.
 - Collaborated closely with cross-functional teams to contribute to their codebases and ensure successful delivery of key initiatives.
 <div class="chips">
-<span class="chip">React</span><span class="chip">Kotlin</span><span class="chip">GraphQL Federation</span><span class="chip">Micro-Frontend</span>
+<span class="chip">React</span><span class="chip">Kotlin</span><span class="chip">GraphQL Federation</span><span class="chip">Micro-Frontend</span><span class="chip">Internationalisation</span>
 </div>
 
 `2021 Sep - 2022 Sep`
