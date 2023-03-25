@@ -55,7 +55,7 @@ __Part-Time Software Engineer__
 
 __Singapore University of Technology and Design (SUTD)__
 
-- Cumulative GPA: 4.75 \| Honour List
+- Cumulative GPA: 4.67 \| Honour List
 - Bachelor of Engineering (Information Systems Technology and Design)
 
 <!-- `2019 Summer`
