@@ -96,7 +96,7 @@ p code {
 ul {
 	position: relative;
 	/* width: 82%; */
-	margin-bottom: 1.5em;
+	margin-bottom: 1em;
 	/* margin-top: -0.5em; */
 }
 
@@ -111,6 +111,7 @@ li {
 	/*second line indent*/
 	/* padding-left: 1.25em;
 	text-indent: -1.25em; */
+	margin-left: 0.25em;
 	margin-top: 0.3em;
 }
 
@@ -131,7 +132,7 @@ h1,h2,h3,h4 {
 
 h1 {
 	text-align: left;
-	font-size: 2.5em;
+	font-size: 1.75em;
 	line-height: 1.1em;
     /* letter-spacing: 3px; */
 	position: relative;
@@ -139,17 +140,15 @@ h1 {
 }
 
 h1+p {
-	/*subtitle*/
-	font-style: italic;
 	font-size: 110%;
 }
 
 h2 {
 	font-size: 1.4em;
-	margin-top: 1em;
+	margin-top: 0.5em;
 	position: relative;
     font-weight: 500;
-    margin-bottom: 1em;
+    margin-bottom: 0.5em;
 }
 
 /* Add black bar under H2 */
@@ -157,7 +156,7 @@ h2::before {
     content: '';
     position: absolute;
     left: 0;
-    top: 1.2em;
+    top: 1em;
     height: 15px;
     width: 65px;
     border-top: 5px solid black;
@@ -172,9 +171,6 @@ h3 {
 }
 
 h3+p {
-	/*subtitle*/
-	font-style: italic;
-	/* font-size: 110%; */
 	margin-top: -0.75em;
 }
 

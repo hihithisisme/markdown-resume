@@ -142,7 +142,6 @@ h1 {
 h1+p {
 	/*subtitle*/
 	text-align: left;
-	font-style: italic;
 	font-size: 110%;
 }
 
@@ -174,9 +173,6 @@ h3 {
 }
 
 h3+p {
-	/*subtitle*/
-	font-style: italic;
-	/* font-size: 110%; */
 	margin-top: -0.5em;
 }
 
