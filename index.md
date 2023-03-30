@@ -7,7 +7,7 @@ __Software Engineer__ \| [soong.lexuan6@gmail.com](soong.lexuan6@gmail.com) \| [
 
 ------
 
-As an accomplished professional with a proven track record in developing and managing distributed systems in the payments and monetization domains, I am well-versed in collaborating with cross-functional teams to deliver outstanding results. My ability to quickly pick up new technologies and gather broad context has enabled me to excel in fast-paced work environments.
+As an accomplished professional with a track record in developing and managing distributed systems, I am well-versed in collaborating with cross-functional teams to deliver outstanding results. My ability to quickly pick up new technologies and gather broader context enables me to excel in fast-paced work environments.
 
 
 ## Experience
@@ -57,15 +57,14 @@ __Singapore University of Technology and Design (SUTD)__
 
 - Cumulative GPA: 4.67 \| Honour List
 - Bachelor of Engineering (Information Systems Technology and Design)
+- Notable courses: 50.007 Machine Learning, 50.039 Deep Learning
 
-<!-- `2019 Summer`
+`2019 Summer`
 __Technische Universität Berlin (TU Berlin)__
 
-- Leadership course
-- Startup Crash Course
-- Innovation and Entrepreneurship course
+- Startup and Entrepreneurship crash course
  
-
+<!--
 `2010 - 2015`
 __Dunman High School__
 
