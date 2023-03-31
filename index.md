@@ -7,8 +7,7 @@ __Software Engineer__ \| [soong.lexuan6@gmail.com](soong.lexuan6@gmail.com) \| [
 
 ------
 
-As an accomplished professional with a track record in developing and managing distributed systems, I am well-versed in collaborating with cross-functional teams to deliver outstanding results. My ability to quickly pick up new technologies and gather broader context enables me to excel in fast-paced work environments.
-
+As a maker at heart, I am driven by the challenge of building and fixing things, including software. I thrive on collaborating with like-minded, driven teams to tackle complex problems. With a proven track record of successful collaboration across diverse teams and job functions, coupled with my ability to gather and process broader contextual knowledge, I am confident in my ability to excel in fast-paced work environments. 
 
 ## Experience
 
