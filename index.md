@@ -3,17 +3,19 @@ layout: cv
 title: Le Xuan's resume
 ---
 # Soong Le Xuan 
-__Software Engineer__ \| [soong.lexuan6@gmail.com](soong.lexuan6@gmail.com) \| [LinkedIn](https://linkedin.com/in/le-xuan-soong-81687818b)
+__Software Engineer__ 
+
+[soong.lexuan6@gmail.com](soong.lexuan6@gmail.com) \| https://linkedin.com/in/le-xuan-soong-81687818b
 
 ------
 
-As a maker at heart, I am driven by the challenge of building and fixing things, including software. I thrive on collaborating with like-minded, driven teams to tackle complex problems. With a proven track record of successful collaboration across diverse teams and job functions, coupled with my ability to gather and process broader contextual knowledge, I am confident in my ability to excel in fast-paced work environments. 
+As a maker at heart, I am driven by the challenge of building and fixing things, including software. I thrive on working with like-minded, driven teams to tackle complex problems. With a proven track record of gathering and processing broader contextual knowledge, I am confident in my ability to excel in fast-paced environments. 
 
 ## Experience
 
 `2022 Sep - 2023 Mar`
-### Indeed International Monetization Team
-__Mid-level Software Engineer (SWE 2)__
+### Indeed / International Monetization Team
+__Software Engineer (SWE 2)__
 
 - Led a successful A/B experiment that directly generated an estimated USD 28 million in additional revenue.
 - Pioneered a new team by creating effective team processes and onboarded three software engineers, contributing to the team's growth and development.
@@ -24,7 +26,7 @@ __Mid-level Software Engineer (SWE 2)__
 </div>
 
 `2021 Sep - 2022 Sep`
-### Indeed International Payments Team
+### Indeed / International Payments Team
 __Entry-level Software Engineer (SWD 2)__
 
 - Led an engineering initiative to restructure the internal asynchronous event flow, enabling future integrations of asynchronous payment methods and improving overall system scalability.
@@ -37,7 +39,7 @@ __Entry-level Software Engineer (SWD 2)__
 </div>
 
 `2020 Aug - Dec`
-### Xendit E-Wallets Team
+### Xendit / E-Wallets Team
 __Part-Time Software Engineer__
 - Worked with the team to build and maintain backend services to support the fastest growing payment method in Indonesia.
 - Contributed to the team's efforts to continuously improve system performance and reliability, ensuring seamless payment experiences for end-users. This was done by improving error logging, and re-architecturing internal services. 
@@ -56,7 +58,7 @@ __Singapore University of Technology and Design (SUTD)__
 
 - Cumulative GPA: 4.67 \| Honour List
 - Bachelor of Engineering (Information Systems Technology and Design)
-- Notable courses: 50.007 Machine Learning, 50.039 Deep Learning
+<!-- - Notable courses: 50.007 Machine Learning, 50.039 Deep Learning -->
 
 `2019 Summer`
 __Technische Universität Berlin (TU Berlin)__
