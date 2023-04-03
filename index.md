@@ -3,7 +3,9 @@ layout: cv
 title: Le Xuan's resume
 ---
 # Soong Le Xuan 
-__Software Engineer__ \| [soong.lexuan6@gmail.com](soong.lexuan6@gmail.com) \| [LinkedIn](https://linkedin.com/in/le-xuan-soong-81687818b)
+__Software Engineer__ 
+
+[soong.lexuan6@gmail.com](soong.lexuan6@gmail.com) \| [https://linkedin.com/in/le-xuan-soong-81687818b](https://linkedin.com/in/le-xuan-soong-81687818b)
 
 ------
 
@@ -30,7 +32,7 @@ __Entry-level Software Engineer (SWD 2)__
 
 - Led an engineering initiative to restructure the internal asynchronous event flow, enabling future integrations of asynchronous payment methods and improving overall system scalability.
 - Spearheaded the integration of an European Direct Banking payment method, collaborating closely with cross-functional teams to resolve inter-dependencies and ensure successful delivery.
-- Advocated for and owned an engineering initiative to enable replayability of Dead-Letter Queue messages, and documented the process to reduce turnaround time for production incidents.
+- Advocated for and owned an engineering initiative to enable replayability of Dead-Letter Queue messages, and documented the process to reduce turnaround time for production incidents from hours to minutes. 
 - Drove the resolution of two production incidents, and owned the remediation and retrospective in the aftermath
 
 <div class="chips">
@@ -55,15 +57,14 @@ __Part-Time Software Engineer__
 
 __Singapore University of Technology and Design (SUTD)__
 
-- Cumulative GPA: 4.67 \| Honour List
-- Bachelor of Engineering (Information Systems Technology and Design)
+- Cumulative GPA: 4.67 \| Honours with Highest Distinction
+- Bachelor of Engineering (Computer Science and Design) 
+- Minor in Artificial Intelligence
 
 <!-- `2019 Summer`
 __Technische Universität Berlin (TU Berlin)__
 
-- Leadership course
-- Startup Crash Course
-- Innovation and Entrepreneurship course
+- Startup and Entrepreneurship crash course
  
 
 `2010 - 2015`
