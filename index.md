@@ -60,10 +60,10 @@ __Singapore University of Technology and Design (SUTD)__
 - Bachelor of Engineering (Computer Science and Design) 
 - Minor in Artificial Intelligence
 
-<!-- `2019 Summer`
+`2019 Summer`
 __Technische Universität Berlin (TU Berlin)__
 
-- Startup and Entrepreneurship crash course -->
+- Startup and Entrepreneurship crash course
  
 <!--
 `2010 - 2015`
